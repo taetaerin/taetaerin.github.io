@@ -1,0 +1,35 @@
+.welcome_card {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.portfolio_container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 100px 30px;
+
+}
+
+.portfolio_card {
+  text-align: center;
+}
+
+
+img {
+  width: 300px;
+  height: 300px;
+}
+
+p {
+  font-size: 18px;
+}
+
+button {
+  width: 100px;
+  height: 30px;
+  font-size: 14px;
+  border-style: none;
+  background-color: black;
+  color: white;
+}
